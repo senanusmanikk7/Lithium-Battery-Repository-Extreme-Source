@@ -1,4 +1,4 @@
-# Lithium Battery Repository Extreme Source
+# Lithium Battery Extreme Source
 
 Why lithium battery
 
